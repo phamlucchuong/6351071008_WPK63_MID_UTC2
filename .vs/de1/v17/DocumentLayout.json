@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\6351071008_WPK63_MID_UTC2\\6351071008_WPK63_MID_UTC2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|c:\\users\\admin\\downloads\\6351071008_wpk63_mid_utc2\\6351071008_wpk63_mid_utc2\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|c:\\users\\admin\\downloads\\6351071008_wpk63_mid_utc2\\6351071008_wpk63_mid_utc2\\categorydetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:categorydetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|c:\\users\\admin\\downloads\\6351071008_wpk63_mid_utc2\\6351071008_wpk63_mid_utc2\\categorydetails.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:categorydetails.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|c:\\users\\admin\\downloads\\6351071008_wpk63_mid_utc2\\6351071008_wpk63_mid_utc2\\categorydetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A36C0CF-0FEA-4DB8-95D4-0F20ACDD13F6}|de1.csproj|solutionrelative:categorydetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "home.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\6351071008_WPK63_MID_UTC2\\6351071008_WPK63_MID_UTC2\\home.aspx",
+              "RelativeDocumentMoniker": "home.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\6351071008_WPK63_MID_UTC2\\6351071008_WPK63_MID_UTC2\\home.aspx",
+              "RelativeToolTip": "home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-27T09:08:33.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\6351071008_WPK63_MID_UTC2\\6351071008_WPK63_MID_UTC2\\CategoryDetails.aspx.cs",
+              "RelativeDocumentMoniker": "CategoryDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\6351071008_WPK63_MID_UTC2\\6351071008_WPK63_MID_UTC2\\CategoryDetails.aspx.cs",
+              "RelativeToolTip": "CategoryDetails.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwCEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:05:59.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryDetails.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\6351071008_WPK63_MID_UTC2\\6351071008_WPK63_MID_UTC2\\CategoryDetails.aspx.designer.cs",
+              "RelativeDocumentMoniker": "CategoryDetails.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\6351071008_WPK63_MID_UTC2\\6351071008_WPK63_MID_UTC2\\CategoryDetails.aspx.designer.cs",
+              "RelativeToolTip": "CategoryDetails.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:05:47.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\6351071008_WPK63_MID_UTC2\\6351071008_WPK63_MID_UTC2\\CategoryDetails.aspx",
+              "RelativeDocumentMoniker": "CategoryDetails.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\6351071008_WPK63_MID_UTC2\\6351071008_WPK63_MID_UTC2\\CategoryDetails.aspx",
+              "RelativeToolTip": "CategoryDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-27T09:05:25.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

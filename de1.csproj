@@ -73,8 +73,39 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CategoryDetails.aspx" />
     <Content Include="Global.asax" />
     <Content Include="home.aspx" />
+    <Content Include="images\Beverages\americano.jpg" />
+    <Content Include="images\Beverages\apple_juice.jpg" />
+    <Content Include="images\Beverages\banana_smoothie.jpg" />
+    <Content Include="images\Beverages\berry_smoothie.jpg" />
+    <Content Include="images\Beverages\black_tea.jpg" />
+    <Content Include="images\Beverages\cappuccino.jpg" />
+    <Content Include="images\Beverages\carrot_juice.jpg" />
+    <Content Include="images\Beverages\chai_latte.jpg" />
+    <Content Include="images\Beverages\chardonnay.jpg" />
+    <Content Include="images\Beverages\coca_cola.jpg" />
+    <Content Include="images\Beverages\dr_pepper.jpg" />
+    <Content Include="images\Beverages\espresso.jpg" />
+    <Content Include="images\Beverages\fanta.jpg" />
+    <Content Include="images\Beverages\gin_tonic.jpg" />
+    <Content Include="images\Beverages\green_smoothie.jpg" />
+    <Content Include="images\Beverages\green_tea.jpg" />
+    <Content Include="images\Beverages\heineken.jpg" />
+    <Content Include="images\Beverages\herbal_tea.jpg" />
+    <Content Include="images\Beverages\latte.jpg" />
+    <Content Include="images\Beverages\macchiato.jpg" />
+    <Content Include="images\Beverages\mango_smoothie.jpg" />
+    <Content Include="images\Beverages\margarita.jpg" />
+    <Content Include="images\Beverages\mixed_fruit_juice.jpg" />
+    <Content Include="images\Beverages\oolong_tea.jpg" />
+    <Content Include="images\Beverages\orange_juice.jpg" />
+    <Content Include="images\Beverages\pepsi.jpg" />
+    <Content Include="images\Beverages\pineapple_juice.jpg" />
+    <Content Include="images\Beverages\sprite.jpg" />
+    <Content Include="images\Beverages\strawberry_smoothie.jpg" />
+    <Content Include="images\Beverages\whiskey_sour.jpg" />
     <Content Include="ManageCategory.aspx" />
     <Content Include="ManageProduct.aspx" />
     <Content Include="QLDoUong.Context.tt">
@@ -97,6 +128,13 @@
     </Compile>
     <Compile Include="Category.cs">
       <DependentUpon>QLDoUong.tt</DependentUpon>
+    </Compile>
+    <Compile Include="CategoryDetails.aspx.cs">
+      <DependentUpon>CategoryDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CategoryDetails.aspx.designer.cs">
+      <DependentUpon>CategoryDetails.aspx</DependentUpon>
     </Compile>
     <Compile Include="DefaultPageMaster.Master.cs">
       <DependentUpon>DefaultPageMaster.Master</DependentUpon>
